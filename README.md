@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on **Google Keep Clone**.
 - 🌱 I’m currently learning more about **Machine Learning**.
 - 💬 Ask me anything about JS or its weirdness.
-- 📫 How to reach me: Twitter - @imthepk , Youtube - @mtechviral
 - 😄 Pronouns: He/His
 - 🐬 Fun Fun fact: I created this Github Account with a weird name in haste but, now I have to live with it even though, hate it.
 
