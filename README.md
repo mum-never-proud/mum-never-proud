@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **Google Keep Clone**.
 - 🌱 I’m currently learning more about **Machine Learning**.
 - 💬 Ask me anything about JS or its weirdness.
-- How to reach me: <a href="https://join.skype.com/invite/WZCSoxFMslUG">Skype - @abid</a>
+- 📫 How to reach me: <a href="https://join.skype.com/invite/WZCSoxFMslUG">Skype - @abid</a>
 - 😄 Pronouns: He/His
 - 🐬 Fun Fun fact: I created this Github Account with a weird name in haste but, now I have to live with it even though, hate it.
 
