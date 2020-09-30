@@ -1,6 +1,11 @@
 # Mohamed Abith Hussain S <img height="40" src="https://raw.githubusercontent.com/mum-never-proud/mum-never-proud/master/rabbit-poly.png"> 
 
-Enjoys developing crazy projects and contribute to open source.
+- 🔭 I’m currently working on **Google Keep Clone**.
+- 🌱 I’m currently learning more about **Machine Learning**.
+- 💬 Ask me anything about JS or its weirdness.
+- 📫 How to reach me: Twitter - @imthepk , Youtube - @mtechviral
+- 😄 Pronouns: He/His
+- 🐬 Fun Fun fact: I created this Github Account with a weird name in haste but, now I have to live with it even though, hate it.
 
 ### ⚒️ Languages and Tools
 
